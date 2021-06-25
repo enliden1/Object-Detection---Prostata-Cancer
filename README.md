@@ -1,1 +1,1 @@
-# Object-Detection-Prostata-Cancer
+# Object-Detection-Prostate-Cancer
